@@ -1,0 +1,35 @@
+body {
+	background-color: #CED3DC;
+	color:  black;
+	font-family: font-family: 'Lora', serif;
+	font-size: 20px;
+	font-weight: lighter;
+}
+h1, h2, h3 {
+	font-family: font-family: 'Roboto';
+}
+h1 {
+font-family: 'Roboto';
+    color: #303059;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-size: 60px;
+}
+h2 {
+font-family: Roboto;
+    text-decoration: none;
+    color: darkslateblue;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+a {
+font-family: 'Roboto';
+    text-decoration: none;
+    color: darkslateblue;
+    font-weight: 600;
+    font-size: 16px;
+}
+a:hover {
+	color: black;
+}

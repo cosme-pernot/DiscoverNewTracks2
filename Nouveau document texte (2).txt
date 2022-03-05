@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Profil de Cosme Pernot</title>
+      <meta name="description" content="Voici le profil de Cosme">
+      <meta charset="utf-8">
+      <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+      <script src="https://kit.fontawesome.com/2c312a3f5b.js" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+
+   <div class="container">
+   <div>
+        <h1>Bonjour, je suis Cosme !</h1>
+        <img src="images/profile.jpg" class="img-circle" width="100px" alt="Cosme Pernot">
+        <p>
+          Agé de 18 ans et ayant obtenu mon baccalauréat lors de l'année 2021, je suis actuellement inscrit en école de commerce à l'IESEG School of Management à Lille. Doté de compétences informatiques diverses telles que la maîtrise de logiciel de montage photo et vidéo, ainsi que des logiciels de base comme Excel ou bien encore Word.
+          Futur diplômé, je souhaite intégrer au plus vite le monde de l'entreprise, en particulier pour y travailler dans le domaine du Marketing et y approfondir mes connaissances. 
+       </p>
+   <a href="https://www.lewagon.com/fr/lille?utm_source=google&utm_medium=cpc&utm_campaign=GLOBAL%20|%20FR%20|%20FR%20|%20LILLE%20|%20GN%20|%20BRAND%20|%20SEARCH%20|%20APPLY%20|%20FR%20|&utm_term=LW%20+%20Broad%20New&utm_content=b_le%20wagon&gclid=CjwKCAiAgvKQBhBbEiwAaPQw3FSTdq9mWYspcY4troNR_dpNYud_3foRsMWQ7E1nliDCoHRwu9RHqBoCPjgQAvD_BwE" target="_blank" class="btn-blue">Découvrez Le Wagon</a>
+   </div>
+
+   <div>
+     <h2>Le Sport 🏋🏽</h2>
+     <p>
+       Je suis quelqu'un de sportif. J'ai fais plusieurs sports comme <strong>le Judo</strong>  🥋 que je pratique encore actuellement depuis 11 ans, ou bien encore du <strong>football</strong> ⚽ et de <strong>la natation</strong> 🏊🏼‍ !
+     </p>
+   </div>
+  
+   <div>
+     <h2>La Musique 🎷</h2>
+     <p>
+       Je suis un grand passionné de <strong>musique</strong>. J'apprend actuellement <strong>le piano</strong> 🎹 en autonomie et j'écoute plusieurs types de musique 🎶 comme de <strong>la musique pop</strong> ou bien encore <strong>du rap</strong> (français et anglais).
+     </p>
+   </div>
+      
+   <div>
+     <h2>Les jeux vidéos 🎮️</h2>
+     <p>
+   J'aime beaucoup jouer aux <strong>jeux vidéos</strong> 🎮 pour me détendre après les cours en fin de journée. Je joue à pleins de types de jeux différents comme les jeux stratégiques. 
+     </p>
+   </div> 
+
+   <div>
+   <h2>Suivez-moi</h2>
+   <ul>
+     <li>
+       <a href="https://www.instagram.com/pernot.cosme/" target="_blank">
+         <i class="fa-brands fa-instagram-square"></i>
+       </a>
+     </li>
+     <li>
+       <a href="https://www.linkedin.com/in/cosme-pernot-a86997222//" target="_blank">
+         <i class="fa-brands fa-linkedin"></i>
+       </a>
+     </li>
+     <li>
+       <a href="https://www.facebook.com/profile.php?id=100072054052785" target="_blank">
+         <i class="fa-brands fa-facebook"></i>
+   </div>   
+   </div>
+      
+
+
+</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
